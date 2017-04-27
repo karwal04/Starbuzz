@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+
+    <string-array name="topLevel">
+        <item>Drinks</item>
+        <item>Food</item>
+    </string-array>
+</resources>
